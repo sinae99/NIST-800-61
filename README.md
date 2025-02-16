@@ -1,5 +1,5 @@
 # NIST 800-61 (Computer Security Incident Handling Guide)
-Summary of the core concepts in "NIST SP 800-61 revision 2"  for Incident Responders 
+My summary of the core concepts in "NIST SP 800-61 revision 2"  for Incident Responders 
 
 
 ## Phase 1 (Preparation) 🚀
