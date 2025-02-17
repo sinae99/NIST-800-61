@@ -142,34 +142,35 @@ for better understanding : Mapping an IR Framework to a fictional heist movie
 # The Great Museum Heist (🦹‍♂️ vs 👮‍♂️)
 
 ## The Vault’s Defenses
-The museum sets up laser grids, motion detectors, and security drills to protect the Phoenix Diamond
+The museum has laser grids, motion detectors, and regular security drills to protect the Phoenix Diamond
 
-	Preparation
+	(Preparation: Strong defenses help prevent security breaches)
 
 ## Something’s Wrong...
-A camera feed cuts out, and a guard is missing—security realizes an intruder is inside!
+A security camera goes dark, and a guard is missing. Security realizes an intruder is inside
 
-	Identification
+	(Identification: Detecting suspicious activity is the first step in responding to an incident)
 
 ## Lock It Down!
-All exit doors seal, alarms blare, and extra guards move in to trap the thief inside
+Alarms go off, exits are sealed, and extra guards move in to contain the thief
 
-	Containment
+	(Containment: Limiting the attacker's movements to prevent further damage)
 
 ## The Thief's Last Chance
-The thief is cornered, but security ensures all hacking tools and accomplices are neutralized
+The thief is cornered, and security makes sure all hacking tools and accomplices are neutralized
 
-	Eradication
+	(Eradication: Removing all threats to restore security)
 
 ## Resetting the Museum
-Cameras and sensors are repaired, new security measures are deployed, and normal operations resume
+Security repairs cameras, upgrades alarms, and restores normal operations
 
-	Recovery
+	(Recovery: Restoring systems and strengthening defenses)
 
 ## The Debriefing
-The team analyzes mistakes, upgrades security, and prepares for the next heist before it happens
+The team reviews what happened, fixes weaknesses, and improves security to prevent future incidents
 
-	Lessons Learned
+	(Lessons Learned: Analyzing the incident to enhance security)
+
 
 
 
