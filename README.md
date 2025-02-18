@@ -9,17 +9,17 @@
 
 # Phase 1 (Preparation) 🛡️
 
-Prepare the organization to detect, respond to, and recover from incidents
+Prepare to = detect, respond to, and recover from incidents
 
-	• Create an Incident Response Policy
-	• Build an Incident Response Team
+	• Create an IR Policy
+	• Build an IR Team
 	• Deploy Security Tools & Infrastructure
-	• Run Incident Response Exercises
+	• Run IR Exercises
 
 ##  Create an Incident Response Policy :
-1) Defines what qualifies as an incident
-2) Specifies who is responsible for handling incidents
-3) Outlines steps for reporting, escalating, and resolving incidents
+1) what qualifies as incident ?
+2) who is responsible for handling incidents ?
+3) Outlines steps for ----> reporting, escalating, and resolving incidents
 
 ##  Build an Incident Response Team (IRT) :
 SOC , Forensic , IT Support , Legal , Management
@@ -37,7 +37,7 @@ SOC , Forensic , IT Support , Legal , Management
 ------------------------------------------------------------------------------------------------------------------------
 # Phase 2 (Detection & Analysis) ⚠️
 
-Identify and analyze security incidents as quickly and accurately as possible
+Identify and analyze security incidents ASAP
 
 	• Detecting an Incident (Signs of Compromise)
 	• Classifying Incidents
