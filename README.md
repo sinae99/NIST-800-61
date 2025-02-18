@@ -7,7 +7,7 @@
 
 
 
-# Phase 1 (Preparation) 🛡️
+# Phase 1 (Preparation) = 🛡️
 
 Prepare to = detect, respond to, and recover from incidents
 
@@ -35,7 +35,7 @@ SOC , Forensic , IT Support , Legal , Management
 2) Red Team & Blue Team Ops ----> Offensive team attacks, defensive team defends
 
 ------------------------------------------------------------------------------------------------------------------------
-# Phase 2 (Detection & Analysis) ⚠️
+# Phase 2 (Detection & Analysis) = ⚠️
 
 Identify and analyze security incidents ASAP
 
@@ -61,7 +61,7 @@ What data is at risk?
 Is the attack spreading?
 
 --------------------------------------------------------------------------------------------------------
-# Phase 3 (Containment, Eradication, and Recovery) 🛑
+# Phase 3 (Containment, Eradication, Recovery) = 🛑
 
 Once an incident is detected, the organization must : 
 
@@ -105,7 +105,7 @@ c) restore affected systems and data (recovery)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-# Phase 4 (Post-Incident Activity) 📖
+# Phase 4 (Post-Incident Activity) = 📖
 
 After handling an incident, analyze what happened, improve defenses, and prevent future attack
 
