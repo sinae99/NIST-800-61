@@ -11,20 +11,20 @@
 
 Prepare to = detect, respond to, and recover from incidents
 
-	• Create an IR Policy
-	• Build an IR Team
-	• Deploy Security Tools & Infrastructure
+	• Create IR Policy
+	• Build IR Team
+	• Deploy Security Tools + Infrastructure
 	• Run IR Exercises
 
-##  Create an Incident Response Policy :
+##  Create Incident Response Policy :
 1) what qualifies as incident ?
 2) who is responsible for handling incidents ?
 3) Outlines steps for ----> reporting, escalating, and resolving incidents
 
-##  Build an Incident Response Team (IRT) :
+##  Build Incident Response Team (IRT) :
 SOC , Forensic , IT Support , Legal , Management
 
-##  Deploy Security Tools & Infrastructure :
+##  Deploy Security Tools + Infrastructure :
 1) SIEM (Splunk) ----> Logs & alerts
 2) IDS/IPS (Suricata) ----> Intrusion detection 
 3) Endpoint Protection (AV) ----> Detects malware
@@ -137,40 +137,32 @@ After handling an incident, analyze what happened, improve defenses, and prevent
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-for better understanding : Mapping an IR Framework to a fictional heist movie
+#### for better understanding : Mapping an IR Framework to a fictional heist movie
 
-# The Great Museum Heist (🦹‍♂️ vs 👮‍♂️)
 
-## The Vault’s Defenses
-The museum has laser grids, motion detectors, and regular security drills to protect the Phoenix Diamond
+The museum uses lasers, motion sensors, and security drills to protect the Phoenix Diamond :
 
-	(Preparation: Strong defenses help prevent security breaches)
+	( "Preparation" : Strong security helps stop threats before they happen )
 
-## Something’s Wrong...
-A security camera goes dark, and a guard is missing. Security realizes an intruder is inside
+A security camera turns off, and a guard is missing. Security realizes someone has broken in :
 
-	(Identification: Detecting suspicious activity is the first step in responding to an incident)
+	( "Identification" : Detecting unusual activity is the first step in handling an incident )
 
-## Lock It Down!
-Alarms go off, exits are sealed, and extra guards move in to contain the thief
+Alarms go off, exits lock, and extra guards arrive to stop the thief :
 
-	(Containment: Limiting the attacker's movements to prevent further damage)
+	( "Containment" : Keeping the attacker from causing more damage )
 
-## The Thief's Last Chance
-The thief is cornered, and security makes sure all hacking tools and accomplices are neutralized
+The thief is trapped, and security removes any hacking tools or helpers :
 
-	(Eradication: Removing all threats to restore security)
+	( "Eradication" : Getting rid of all threats to restore safety )
 
-## Resetting the Museum
-Security repairs cameras, upgrades alarms, and restores normal operations
+Security fixes cameras, upgrades alarms, and returns to normal :
 
-	(Recovery: Restoring systems and strengthening defenses)
+	( "Recovery" : Repairing systems and making security stronger )
 
-## The Debriefing
-The team reviews what happened, fixes weaknesses, and improves security to prevent future incidents
+The team studies what happened, finds weaknesses, and improves security :
 
-	(Lessons Learned: Analyzing the incident to enhance security)
-
+	( "Lessons Learned" : Understanding the incident to prevent future attacks )
 
 
 
