@@ -11,17 +11,17 @@
 
 Prepare to = detect, respond to, and recover from incidents
 
-	• Create IR Policy
-	• Build IR Team
-	• Deploy Security Tools + Infrastructure
-	• Run IR Exercises
+	• Create ---> IR Policy
+	• Build ----> IR Team
+	• Deploy ---> Security Tools + Infrastructure
+	• Run ------> IR Exercises
 
-##  Create Incident Response Policy :
+##  Create IR Policy :
 1) what qualifies as incident ?
 2) who is responsible for handling incidents ?
 3) Outlines steps for ----> reporting, escalating, and resolving incidents
 
-##  Build Incident Response Team (IRT) :
+##  Build IR Team (IRT) :
 SOC , Forensic , IT Support , Legal , Management
 
 ##  Deploy Security Tools + Infrastructure :
@@ -30,7 +30,7 @@ SOC , Forensic , IT Support , Legal , Management
 3) Endpoint Protection (AV) ----> Detects malware
 4) Network Monitoring (Zeek) ----> Traffic analysis
 
-##  Run Incident Response Exercises :
+##  Run IR Exercises :
 1) Tabletop Exercises ----> Simulate an incident and test team response
 2) Red Team & Blue Team Ops ----> Offensive team attacks, defensive team defends
 
@@ -39,9 +39,9 @@ SOC , Forensic , IT Support , Legal , Management
 
 Identify and analyze security incidents ASAP
 
-	• Detecting an Incident (Signs of Compromise)
-	• Classifying Incidents
-	• Analyzing the Scope & Impact
+	• Detecting ----> an Incident (Signs of Compromise)
+	• Classifying --> Incidents
+	• Analyzing ----> the Scope & Impact
 
 
 ##  Detecting an Incident :
