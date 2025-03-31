@@ -17,22 +17,28 @@ Prepare to = detect, respond to, and recover from incidents
 	• Run ------> IR Exercises
 
 ##  Create IR Policy :
-1) what qualifies as incident ?
-2) who is responsible for handling incidents ?
-3) Outlines steps for ----> reporting, escalating, and resolving incidents
+a) what qualifies as incident ?
+
+b) who is responsible for handling incidents ?
+
+c) Outlines steps for ----> reporting, escalating, and resolving incidents
 
 ##  Build IR Team (IRT) :
 SOC , Forensic , IT Support , Legal , Management
 
 ##  Deploy Security Tools + Infrastructure :
-1) SIEM (Splunk) ----> Logs & alerts
-2) IDS/IPS (Suricata) ----> Intrusion detection 
-3) Endpoint Protection (AV) ----> Detects malware
-4) Network Monitoring (Zeek) ----> Traffic analysis
+- SIEM (Splunk) ----> Logs & alerts
+
+- IDS/IPS (Suricata) ----> Intrusion detection 
+
+- Endpoint Protection (AV) ----> Detects malware
+
+- Network Monitoring (Zeek) ----> Traffic analysis
 
 ##  Run IR Exercises :
-1) Tabletop Exercises ----> Simulate an incident and test team response
-2) Red Team & Blue Team Ops ----> Offensive team attacks, defensive team defends
+a) Tabletop Exercises ----> Simulate an incident and test team response
+
+b) Red Team & Blue Team Ops ----> Offensive team attacks, defensive team defends
 
 ------------------------------------------------------------------------------------------------------------------------
 # Phase 2 (Detection & Analysis) = ⚠️
@@ -45,9 +51,11 @@ Identify and analyze security incidents ASAP
 
 
 ##  Detecting an Incident :
-1) Network Indicators ----> High outbound traffic, unusual DNS requests , ...
-2) Host Indicators ----> Unexpected file changes, privilege escalation attempts
-3) User Indicators ----> Abnormal logins, failed password attempts
+a) Network Indicators ----> High outbound traffic, unusual DNS requests , ...
+
+b) Host Indicators ----> Unexpected file changes, privilege escalation attempts
+
+c) User Indicators ----> Abnormal logins, failed password attempts
 
 ##  Classifying Incidents :
 Unauthorized Access , Mal , DoS , Insider , ...
@@ -75,14 +83,14 @@ c) restore affected systems and data (recovery)
 **Why?** Prevent attackers from gaining more access or causing more damage
 
 *Short-Term Containment* :
-1) Disconnect affected machines from the network
-2) Block attacker IP addresses at the firewall
-3) Kill malicious processes using EDR
+- Disconnect affected machines from the network
+- Block attacker IP addresses at the firewall
+- Kill malicious processes using EDR
 
 *Long-Term Containment* :
-1) Apply patches and updates to vulnerable system
-2) Change compromised passwords
-3) Implement network segmentation to isolate affected areas
+- Apply patches and updates to vulnerable system
+- Change compromised passwords
+- Implement network segmentation to isolate affected areas
 
 
 ##  Eradication: Removing the Threat
@@ -99,9 +107,9 @@ c) restore affected systems and data (recovery)
 ##  Recovery: Restoring Systems to Normal
 **Why?** After removing the threat, affected systems must be safely restored to full operation
 
-1) Restore from Clean Backups
-2) Rebuild Affected Systems
-3) Verify Everything is Fixed ---->  Conduct penetration testing to check if attackers can return
+a) Restore from Clean Backups
+b) Rebuild Affected Systems
+c) Verify Everything is Fixed ---->  Conduct penetration testing to check if attackers can return
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -140,7 +148,7 @@ After handling an incident, analyze what happened, improve defenses, and prevent
 #### for better understanding : Mapping an IR Framework to a fictional heist movie
 
 
-The museum uses lasers, motion sensors, and security drills to protect the Phoenix Diamond :
+A museum uses lasers, motion sensors, and security drills to protect the Diamond :
 
 	( "Preparation" : Strong security helps stop threats before they happen )
 
