@@ -145,32 +145,6 @@ After handling an incident, analyze what happened, improve defenses, and prevent
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-#### for better understanding : Mapping an IR Framework to a fictional heist movie
-
-
-A museum uses lasers, motion sensors, and security drills to protect the Diamond :
-
-	( "Preparation" : Strong security helps stop threats before they happen )
-
-A security camera turns off, and a guard is missing. Security realizes someone has broken in :
-
-	( "Identification" : Detecting unusual activity is the first step in handling an incident )
-
-Alarms go off, exits lock, and extra guards arrive to stop the thief :
-
-	( "Containment" : Keeping the attacker from causing more damage )
-
-The thief is trapped, and security removes any hacking tools or helpers :
-
-	( "Eradication" : Getting rid of all threats to restore safety )
-
-Security fixes cameras, upgrades alarms, and returns to normal :
-
-	( "Recovery" : Repairing systems and making security stronger )
-
-The team studies what happened, finds weaknesses, and improves security :
-
-	( "Lessons Learned" : Understanding the incident to prevent future attacks )
 
 
 
