@@ -1,5 +1,5 @@
 # NIST 800-61 (Computer Security Incident Handling Guide)
-### My summary of the core concepts in ["NIST SP 800-61 revision 2"](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)  for Incident Responders 
+### My summary-note of the core concepts in ["NIST SP 800-61 revision 2"](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)  for Incident Responders 
 
 
 ![image](https://github.com/user-attachments/assets/78a01b7d-24dc-462e-aed1-0ea1a468cc56)
